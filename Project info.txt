@@ -1,0 +1,8 @@
+﻿==========================Exercise Checking Report========================== 
+Exercise No...........: 2
+First Student Details.: 311403133- Inbal Samucha
+Second Student Details: 311492938- Bar Grinshtein 
+Delivery Date.........: 1 - january - 2019 
+Delivered In Delay....: no 
+Visual Studio Version: 2017
+========================End Exercise Checking Report========================
